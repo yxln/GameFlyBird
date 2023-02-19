@@ -1,4 +1,4 @@
 # GameFlyBird
 
-![image](https://user-images.githubusercontent.com/42726980/219922664-166d3d16-549f-4103-830e-f6cbd9d12b7a.png)
+![image](https://user-images.githubusercontent.com/42726980/219922688-059a8f30-edb2-4a57-8483-735d86b240e4.png)
 
